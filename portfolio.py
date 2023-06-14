@@ -6,4 +6,4 @@ import streamlit as st
 import pandas as pd
 
 st.title('Nicolas Chaleyssin - Portfolio')
-st.image('./chat.jpg')
+st.image('./pictures/chat.jpg')
